@@ -19,7 +19,7 @@ contract Contract {
         });
     }
 
-    // ✅ TRANSFER FUNCTION (YOUR GOAL)
+  
     function transfer(address _to, uint256 _amount) external {
 
         // 1. both users must exist + be active

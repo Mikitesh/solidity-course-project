@@ -5,7 +5,7 @@ contract Contract {
 
     // IMPORTANT: must match test expectations
     enum ConnectionTypes {
-        Unacquainted, // 👈 added to match test
+        Unacquainted, //
         Friend,
         Family,
         Blocked

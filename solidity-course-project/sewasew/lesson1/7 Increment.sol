@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 contract Contract {
     uint256 public x;
     
-    constructo(uint256 initialX) {
+    constructor(uint256 initialX) {
         x = initialX;
     }
     function increment() external {
